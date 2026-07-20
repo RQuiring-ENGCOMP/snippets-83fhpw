@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RQuiring-ENGCOMP.github.io/snippets-83fhpw/sitemap.xml
